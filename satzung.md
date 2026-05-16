@@ -33,7 +33,7 @@ unmittelbar bestehen und deutlich erkennbar bleiben.
 
 # Tagung
 
-Die ausrichtende Fachschaft legt den Programmablauf der Tagung fest und
+Die ausrichtenden Fachschaften legen den Programmablauf der Tagung fest und
 erarbeitet ein Protokoll der Veranstaltung, den sogenannten ZaPF-Reader.
 Sie stellt davon allen Mitgliedsfachschaften ein Exemplar zur Verfügung.
 
@@ -53,7 +53,7 @@ Die Mitgliedschaft im StAPF, dem Awarenessgremium, der Gruppe der
 Vertrauenspersonen, dem Kommunikationsgremium oder dem TOPF endet mit Ablauf der
 Amtszeit, Ableben der amtsinhabenden Person, Niederlegung des Amtes oder Abwahl
 mit Zweidrittelmehrheit durch das Plenum. Der Antrag auf Abwahl ist bis 15:00
-Uhr am Vortag bei der ausrichtenden Fachschaft anzukündigen.
+Uhr am Vortag bei der ausrichtenden Fachschaften anzukündigen.
 
 Bis zur Nachwahl bleibt ein unbesetztes Amt vakant. Bei der Nachwahl wird das
 Amt bis zum Ablauf der Restdauer der Amtszeit besetzt.
@@ -123,7 +123,7 @@ Sollten alle Posten des StAPFes vakant sein, übernehmen die von der ZaPF
 entsandten Mitglieder des Kommunikationsgremiums oder, falls diese vakant sind,
 die Mitglieder des Technischen Organisationsausschuss aller Physikfachschaften
 oder, falls auch diese vakant sind, die Mitglieder der letzten die ZaPF
-ausrichtenden Fachschaft die Archivierungs- und Veröffentlichungsaufgaben des
+ausrichtenden Fachschaften die Archivierungs- und Veröffentlichungsaufgaben des
 StAPF.
 
 ## Die Vertrauenspersonen
@@ -228,7 +228,7 @@ Begründung und einem konkreten Thema der Satzungsänderung anzukündigen.
 Auf der ZaPF muss dann zwingend ein Arbeitskreis zum Thema der vorgeschlagenen
 Satzungsänderungen durchgeführt werden, dessen Satzungsänderungsantrag bzw.
 Satzungsänderungsanträge bis spätestens 15:00 Uhr am Vortag des Endplenums bei
-der die ZaPF ausrichtenden Fachschaft eingereicht und ausgehängt werden müssen.
+der die ZaPF ausrichtenden Fachschaften eingereicht und ausgehängt werden müssen.
 
 # Schlussbestimmungen und Änderungshistorie {-}
 
