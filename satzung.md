@@ -37,7 +37,7 @@ Die ausrichtende Fachschaft legt den Programmablauf der Tagung fest und
 erarbeitet ein Protokoll der Veranstaltung, den sogenannten ZaPF-Reader.
 Sie stellt davon allen Mitgliedsfachschaften ein Exemplar zur Verfügung.
 
-Die Tagung beginnt mit dem Anfangsplenum und endet nach dem Abschlussplenum.
+Die Tagung beginnt mit dem Anfangsplenum und endet nach dem Endplenum.
 
 # Organe
 
