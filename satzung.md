@@ -85,7 +85,7 @@ und Masterstudiengänge und ähnliche Gremien.
 Das Plenum beschließt ebenfalls die nächsten Veranstaltungsorte der ZaPF und
 den Verhaltenskodex der ZaPF.
 
-Den Ablauf der Plenen regelt die Geschäftsordnung für Plenen der ZaPF.
+Den Ablauf der Plena regelt die Geschäftsordnung für Plena der ZaPF.
 
 ## Der Ständige Ausschuss der Physik-Fachschaften
 
@@ -143,7 +143,7 @@ Die Amtszeit der Vertrauenspersonen beginnt mit der Annahme der Wahl und endet
 mit Beginn der nächsten ZaPF. Für vakante Plätze bei den Vertrauenspersonen
 findet keine Nachwahl statt.
 
-Die Wahl der Vertrauenspersonen ist in der Geschäftsordnung für Plenen der ZaPF
+Die Wahl der Vertrauenspersonen ist in der Geschäftsordnung für Plena der ZaPF
 gesondert zu regeln.
 
 ## Das Awarenessgremium
